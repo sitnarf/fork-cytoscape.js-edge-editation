@@ -11,7 +11,7 @@ Extension was tested with these versions of libraries:
 
 ## Install
 
-Use git clone or direct zip download and unpack archive into your project. Then, simply insert <script> tag after
+Use git clone or direct zip download and unpack archive into your project. Then, simply insert \<script\> tag after
 Cytoscape.js and jQuery:
 
 ```html
