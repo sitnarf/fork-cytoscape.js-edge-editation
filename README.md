@@ -55,3 +55,4 @@ cy.add({
 });
 ```
 ![Screenshot](http://i.imgbox.com/drCuXQqu.png)
+![Screenshot](http://i.imgbox.com/23jr7qPa.png)
