@@ -43,6 +43,9 @@ handles.registerHandle({
     noMultigraph: false         //whereter two nodes can't be connected with multiple edges (does not consider orientation) 
     
 });
+
+handles.registerHandle({...});
+handles.registerHandle({...});
 ```
 
 Type of node is stored in data section:
