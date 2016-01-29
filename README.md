@@ -41,7 +41,6 @@ handles.registerHandle({
     single: true,               //wheter only one edge of this type can start from same node (default false) 
     nodeTypeNames: ["type2"]    //which types of nodes will contain this handle
     noMultigraph: false         //whereter two nodes can't be connected with multiple edges (does not consider orientation) 
-    
 });
 
 handles.registerHandle({...});
