@@ -54,4 +54,4 @@ cy.add({
     data: { id: 'n4', type: "type2"},
 });
 ```
-!(http://i.imgbox.com/drCuXQqu.png)
+![Screenshot](http://i.imgbox.com/drCuXQqu.png)
